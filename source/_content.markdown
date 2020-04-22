@@ -40,7 +40,6 @@ order please).
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [Alliants](http://www.alliants.com) - UK and CA Technology consultancy
-* [DevBBQ Inc](http://www.devbbq.com) - Strategic development for products and systems
 * [Functional Imperative](http://functionalimperative.com)
 * [Metaware Labs Inc](http://metawarelabs.com)
 * [OK GROW!](http://okgrow.com) - Expert web and mobile app development
@@ -48,6 +47,7 @@ order please).
 * [Pivotal Labs](http://www.pivotallabs.com)
 * [Remarkable Labs](http://www.remarkablelabs.com/)
 * [Ryatta Group](http://www.ryatta.com/)
+* [Spiria Digital](https://www.spiria.com/) - Strategic development for products and advanced systems
 * [The Working Group](http://www.theworkinggroup.ca/)
 * [Unspace](https://unspace.ca/)
 
@@ -60,6 +60,7 @@ order please).
 * [Archon Systems](http://www.archonsystems.com/)
 * [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
+* [Buygoon](https://www.buygoon.com/) - Toronto-based Cash back and Referral shopping site 
 * [CareerJSM](https://careerjsm.com) - CareerJSM the best way for career centres to support students during a modern job search.
 * [Coupgon](https://coupgon.com) - Canada's first fully digital mobile grocery coupon.
 * [Evercondo](http://www.evercondo.com) - The next generation condominium platform
